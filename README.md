@@ -1,6 +1,6 @@
 # História do mascote do Android
-<div style="margin: 0 auto;">
-   <img src="images/view-android.png" alt="imagem do projeto">
+<div style=" width: 100%; margin: 0 auto;">
+   <img style=" width: 100%; margin: 0 auto;" src="images/view-android.png" alt="imagem do projeto">
 </div>
 <hr/>
 
